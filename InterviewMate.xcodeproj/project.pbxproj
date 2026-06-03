@@ -10,9 +10,22 @@
 		245529172FD02F22007B18CC /* InterviewMate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InterviewMate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		245529672FD0384C007B18CC /* Exceptions for "InterviewMate" folder in "InterviewMate" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				README.md,
+			);
+			target = 245529162FD02F22007B18CC /* InterviewMate */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		245529192FD02F22007B18CC /* InterviewMate */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				245529672FD0384C007B18CC /* Exceptions for "InterviewMate" folder in "InterviewMate" target */,
+			);
 			name = InterviewMate;
 			path = /Users/user298368/Desktop/InterviewMate/InterviewMate;
 			sourceTree = "<absolute>";
